@@ -1,6 +1,6 @@
 # YouTube slides To PDF generator
 
-Python code to convert ppt slides in YouTube videos to pdf format. 
+Python code to convert ppt slides in YouTube videos to PDF format. 
 
 1) Downloads the video using pytube. 
 
